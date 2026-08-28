@@ -1,0 +1,8 @@
+{
+  "name": "FCT WB ERP",
+  "description": "Enterprise Human Resources Resource Planning (HR ERP) system for employee lifecycle management, attendance tracking, leave requests, payroll processing, recruitment pipelines, performance reviews, and organizational analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
